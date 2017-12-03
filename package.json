@@ -18,11 +18,14 @@
   "license": "UNLICENCED",
   "repository": "googol/ts-optional",
   "devDependencies": {
+    "ts-optional-type": "^1.0.0",
     "tslint": "^5.8.0",
     "typescript": "^2.6.1"
   },
   "dependencies": {},
-  "peerDependencies": {},
+  "peerDependencies": {
+    "ts-optional-type": "^1.0.0"
+  },
   "files": [
     "dist"
   ]
